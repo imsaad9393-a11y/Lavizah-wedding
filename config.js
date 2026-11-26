@@ -146,8 +146,8 @@ window.CONFIG = {
   // Background music: save a small licensed MP3 as assets/music.mp3, then set enabled: true.
   // It starts when the guest taps the seal, and a small play/pause button appears.
   music: {
-    enabled: false,
-    src: "assets/music.mp3",
+    enabled: true,
+    src: "assets/music.MP3",
     label: "Music",
   },
   // Set any of these to false to turn that effect off.
